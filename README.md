@@ -72,7 +72,7 @@ tsum.test(
 )
 ```
 
-Hasil
+Hasilnya
 
 ![](https://github.com/agnesfiaa/P2_Probstat_A_5025201059/blob/main/Source%20P2_Probstat_A_5025201059/hasil%202b.PNG)
 
