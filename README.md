@@ -52,7 +52,7 @@ c. tentukanlah apakah terdapat pengaruh yang signifikan secara statistika dalam
  
  ![](https://github.com/agnesfiaa/P2_Probstat_A_5025201059/blob/main/Source%20P2_Probstat_A_5025201059/hasil%201c.PNG)
   
-### Nomer 2
+### Nomor 2
 Diketahui bahwa mobil dikemudikan rata-rata lebih dari 20.000 kilometer per tahun. 
 Untuk menguji klaim ini, 100 pemilik mobil yang dipilih secara acak diminta untuk mencatat 
 jarak yang mereka tempuh. Jika sampel acak menunjukkan rata-rata 23.500 kilometer dan standar
@@ -78,3 +78,16 @@ Hasilnya
 
 c. Buatlah kesimpulan berdasarkan P-Value yang dihasilkan!
   ```kesimpulan dari soal diatas adalah mobil yang digunakan rata ratanya lebih dari 20.000 km/tahun```
+  
+### Nomor 3
+Diketahui	perusahaan	memiliki	seorang	data	analyst	ingin	memecahkan permasalahan pengambilan
+keputusan dalam perusahaan tersebut. Selanjutnya didapatkanlah data berikut dari perusahaan saham tersebut.
+
+![](https://github.com/agnesfiaa/P2_Probstat_A_5025201059/blob/main/Source%20P2_Probstat_A_5025201059/nomor%203.PNG)
+
+a. H0 dan H1?
+```R
+   H0 = 9.50
+   H1 = 10.98
+```
+   
