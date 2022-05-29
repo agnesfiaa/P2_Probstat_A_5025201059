@@ -18,7 +18,7 @@ melakukan aktivitas 𝐴 sebanyak 70.
 a. Carilah Standar Deviasi dari data selisih pasangan pengamatan tabel
 diatas
 
-```
+```R
   Respon = c(1,2,3,4,5,6,7,8,9)
   x = c(78,75,67,77,70,72,78,74,77)
   y = c(100,95,70,90,90,90,89,90,100)
@@ -31,7 +31,7 @@ Hasil Standar deviasi dari data selisih pasangan pengamatan tabel
 
 b. carilah nilai t (p-value)
 
-```
+```R
   t.test(x, y, alternative = "greater", var.equal = FALSE)
 ```
 Hasilnya
@@ -44,7 +44,7 @@ c. tentukanlah apakah terdapat pengaruh yang signifikan secara statistika dalam
    signifikan secara statistika dalam hal kadar saturasi oksigen , sebelum dan 
    sesudah melakukan aktivitas 𝐴”
    
-  ```
+  ```R
     var.test(x,y)
   ```
   
@@ -61,7 +61,8 @@ deviasi 3900 kilometer. (Kerjakan menggunakan library seperti referensi pada mod
 a. Apakah anda setuju dengan klaim tersebut ? `setuju`
 
 b. Jelaskan maksud dari output yang dihasilkan!
-```
+
+```R
 library(BSDA)
 
 tsum.test(
@@ -72,4 +73,8 @@ tsum.test(
 ```
 
 Hasil
-![](
+
+![](https://github.com/agnesfiaa/P2_Probstat_A_5025201059/blob/main/Source%20P2_Probstat_A_5025201059/hasil%202b.PNG)
+
+c. Buatlah kesimpulan berdasarkan P-Value yang dihasilkan!
+  ```kesimpulan dari soal diatas adalah mobil yang digunakan rata ratanya lebih dari 20.000 km/tahun```
